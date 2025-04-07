@@ -54,7 +54,7 @@ Jogo de escolhas baseado em loops e decisões progressivas.
 
 ### 💪 Cabo de Guerra  
 Desafio entre times, com lógica de pontuação e manipulação de arrays.  
-🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/mydaojZ)
+🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/OPJqLXj)
 
 ### 🧠 Quiz Interativo  
 Jogo de perguntas e respostas com uso de JSON, pontuação e feedback.  
