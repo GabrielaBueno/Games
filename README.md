@@ -101,7 +101,7 @@ Sinta-se à vontade para clonar, estudar, modificar e compartilhar com outras pe
 
 ## ✨ Agradecimentos
 
-Agradeço à equipe da **Alura** e aos instrutores da Imersão Dev pela didática, leveza e incentivo ao longo de toda a semana.  
+Agradeço à equipe da **Alura** e aos instrutores **Paulo Silveira**, **Fernanda Degolin** e **André David** pela didática, leveza e incentivo ao longo de toda a semana.  
 Foi uma experiência de aprendizado divertida, prática e muito inspiradora!
 
 ---
