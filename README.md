@@ -42,23 +42,23 @@ Cada projeto foi desenvolvido com HTML, CSS e JavaScript, utilizando uma abordag
 
 ### 🪙 Conversor de Moedas  
 Conversor de Won para Real e Dólar utilizando entrada de dados e operações matemáticas.  
-🔗 [Visualizar no CodePen](https://lnkd.in/d5UPD49n)
+🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/WbNYEvX)
 
 ### ✊ Pedra, Papel e Tesoura  
 Jogo interativo contra a máquina, com lógica condicional e números aleatórios.  
-🔗 [Visualizar no CodePen](https://lnkd.in/dtFfxpWH)
+🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/LEYMGXG)
 
 ### 🪟 Salto na Ponte de Vidro  
 Jogo de escolhas baseado em loops e decisões progressivas.  
-🔗 [Visualizar no CodePen](https://lnkd.in/d5ygMxPi)
+🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/mydaojZ)
 
 ### 💪 Cabo de Guerra  
 Desafio entre times, com lógica de pontuação e manipulação de arrays.  
-🔗 [Visualizar no CodePen](https://lnkd.in/d6Kb5Tmc)
+🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/mydaojZ)
 
 ### 🧠 Quiz Interativo  
 Jogo de perguntas e respostas com uso de JSON, pontuação e feedback.  
-🔗 [Visualizar no CodePen](https://lnkd.in/dAFNBNg5)
+🔗 [Visualizar no CodePen](https://codepen.io/Gabriela-Bueno-the-selector/pen/XJWGaNZ)
 
 ---
 
