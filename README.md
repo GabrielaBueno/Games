@@ -1,5 +1,5 @@
 
-# 🧠 Projetos da Imersão Dev - Alura
+# Projetos da Imersão Dev - Alura
 
 Este repositório reúne os projetos desenvolvidos durante a **Imersão Dev da Alura**, realizada entre os dias **31 de março e 04 de abril de 2025**.
 
